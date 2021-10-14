@@ -30,7 +30,7 @@ Using DNN and [spaCy](https://spacy.io/), [`2_rules_based_bot.ipynb`](2_rules_ba
 
 ## Authors and acknowledgment
 
-Al the material here presented was developed following the instructions and files given by @hernancontigiani, teacher of [NLP coure](http://laboratorios.fi.uba.ar/lse/cursos.html#ProcesamientoLenguajeNatural).
+Al the material here presented was developed following the instructions and files given by [@hernancontigiani](https://github.com/hernancontigiani), teacher of [NLP coure](http://laboratorios.fi.uba.ar/lse/cursos.html#ProcesamientoLenguajeNatural).
 
 ## License
 
