@@ -10,7 +10,7 @@ In [`1_word2vec.ipynb`](1_word2vec.ipynb) you can find TF, TF-IDF and cosine sim
 
 ### 2. Rule-Based Chatbot
 
-Using DNN and [spaCy](https://spacy.io/), [`2_rules_based_bot.ipynb`](2_rules_based_bot.ipynb), show a simple example of Rule-Based Chatbot. In this case, trying to board a basic customer service chatbot.
+Using DNN and [spaCy](https://spacy.io/), [`2_rules_based_bot.ipynb`](2_rules_based_bot.ipynb), shows a simple example of Rule-Based Chatbot. In this case, trying to board a basic customer service chatbot.
 
 ### 3. Custom embedings using [Gensim](https://radimrehurek.com/gensim)
 
